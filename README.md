@@ -18,7 +18,7 @@ Site published at: https://github.com/AinaEin/48_grupe_todo/
 Design: 
 [Example-1](https://dribbble.com/shots/17246001/attachments/12352583?mode=media),
 [Example-2](https://dribbble.com/shots/14552329--Exploration-Task-Management-Dashboard/attachments/6241009?mode=media),
-[Example-3](https://dribbble.com/shots/17373709-Team-management-and-task-tracker-app/attachments/12496486?mode=media)
+[Example-3](https://dribbble.com/shots/18312650-TASKII/attachments/13521606?mode=media)
 
 ## 🎯 Project features/goals
 
