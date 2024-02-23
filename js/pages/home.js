@@ -14,5 +14,5 @@ todo.addColumn("Review");
 todo.addColumn("Done");
 
 // išsilogini, kad pasitikrintti ar suveikia
-todo.renderColumns();
+// todo.renderColumns();
 

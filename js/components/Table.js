@@ -104,7 +104,7 @@ class Table {
     this.columnNames.push(columnName);
   }
   renderColumns() {
-    // console.log('rendering') kad pasitikrinti ar veikia
+    // console.log('rendering') susikuri metoda pasitikrinti ar veikia
     let HTML = "";
 
     for (const column of this.columnNames) {
@@ -122,7 +122,5 @@ class Table {
     this.tableDOM.innerHTML = HTML;
   }
 }
-
-
 
 export { Table };
