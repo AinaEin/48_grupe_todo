@@ -3,7 +3,7 @@ import { Table } from "../components/Table.js";
 // objektas po apacia
 
 const todo = new Table(
-  "",
+  "main",
   "Homepage design",
   "Panašu, jog dar neturi jokių užduočių"
 );
