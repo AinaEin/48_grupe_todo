@@ -13,4 +13,6 @@ todo.addColumn("In progress");
 todo.addColumn("Review");
 todo.addColumn("Done");
 
-console.log(todo);
+// išsilogini, kad pasitikrintti ar suveikia
+todo.renderColumns();
+

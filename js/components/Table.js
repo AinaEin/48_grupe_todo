@@ -104,6 +104,7 @@ class Table {
     this.columnNames.push(columnName);
   }
   renderColumns() {
+    // console.log('rendering') kad pasitikrinti ar veikia
     let HTML = "";
 
     for (const column of this.columnNames) {
